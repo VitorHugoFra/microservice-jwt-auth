@@ -1,0 +1,8 @@
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\config\JerseyConfig.java
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\controller\AuthController.java
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\database\DatabaseConnection.java
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\domain\LoginRequest.java
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\domain\User.java
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\main\Main.java
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\service\UserService.java
+C:\Users\vitor\eclipse-workspace\microservice-jwt-auth\src\main\java\com\example\util\JwtUtil.java

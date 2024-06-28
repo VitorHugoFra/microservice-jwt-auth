@@ -1,0 +1,8 @@
+com\example\config\JerseyConfig.class
+com\example\database\DatabaseConnection.class
+com\example\domain\LoginRequest.class
+com\example\controller\AuthController.class
+com\example\domain\User.class
+com\example\service\UserService.class
+com\example\util\JwtUtil.class
+com\example\main\Main.class
